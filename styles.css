@@ -1,0 +1,32 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+.list-item {
+  font-weight: 900;
+  background-color: #00FF32;
+  color: red;
+}
+.ingredients .list-item{
+  color: blue;
+}
+
+h1 {
+  font-weight: 700;
+  background-color: rgba(200, 100, 50, .5);
+}
+
+.recipe {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#items .ingredients {
+  background-color: rgba(200, 255, 50, .5);
+}
+
+#items .steps{
+  background-color: rgba(200, 100, 50, .5);
+}
+
+a:hover{
+  opacity: .5;
+}
